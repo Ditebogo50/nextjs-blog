@@ -1,19 +1,24 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
-date: '2020-01-02'
+title: 'The Programming Journey'
+date: '2022-12-02'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+**Where do I begin?**
 
-You can use Static Generation for many types of pages, including:
+**1. There is never the right time!**
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+Trust me, I always told myself the time will come when I am ready to learn a new language, framework or commit to GitHub. There is no such thing. The time is anytime. Coding is about practice, constant practice, you need to have the consistency mindset to succeed. So you are ready. Start coding now. Open your laptop/pc/phone and start.
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+**2. Start coding!**
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+You have to actually start coding. There, I said it. See you can stare at your screen for months trying to cram code and analyse it in your head. But that is the thing, you aren't coding, you are looking at code, big difference. You just havre to start putting a bunch of code; try and fail and try again to succeed. They all say they did that (all the coders who came before us).
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+**3. You have all you need with the internet.**
+
+So now you are wondering; where should I begin. The truth is the internet is your gold mine. Dig in to your future, mostly its free. You can access just about everything you need to start and to become a pro coder. Literally search for: How to start coding, and you are on your way to become a pro coder. You could always pay for courses if you need structure, it is up to you.
+
+**4. You cannot do it alone!**
+
+Remember even the best of coders still collaborate and seek advice from others. When you are starting, I suggest find friends, mentors or even stack overflow. At times when you get stuck, you may lose hope but the truth is its usually the simplest thing that stops you from proceeding. Ask and you shall proceed!
+
+
